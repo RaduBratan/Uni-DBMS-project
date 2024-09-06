@@ -1,2 +1,1 @@
-# Uni-DBMS-project
-Proiect la materia SGBD realizat de Radu-George Bratan, grupa 242
+This is a project I created for my Database Management Systems class at UniBuc FMI.
